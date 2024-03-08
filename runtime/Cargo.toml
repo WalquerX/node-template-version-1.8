@@ -39,6 +39,8 @@ sp-std = { workspace = true }
 sp-transaction-pool = { workspace = true }
 sp-version = { workspace = true }
 
+sp-genesis-builder = { workspace = true }
+
 # Used for the node template's RPCs
 frame-system-rpc-runtime-api = { workspace = true }
 pallet-transaction-payment-rpc-runtime-api = { workspace = true }
